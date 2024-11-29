@@ -1,1 +1,1 @@
-# MovieMania
+# EventEase
